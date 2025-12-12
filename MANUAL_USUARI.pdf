@@ -1,0 +1,31 @@
+MANUAL D'USUARI: Voice Commander
+
+1. Introducció Benvingut a Voice Commander. Aquesta aplicació et permet controlar funcionalitats bàsiques i veure com l'ordinador entén la teva veu. Està dissenyada per ser senzilla, ràpida i fàcil d'utilitzar.
+
+2. Com obrir l'aplicació Un cop instal·lada l'aplicació al teu ordinador, només has de fer doble clic sobre la icona de Voice Commander a l'escriptori. S'obrirà una finestra amb fons fosc i un disseny modern.
+
+3. Pantalla Principal En obrir l'aplicació, veuràs la pantalla de benvinguda.
+
+    A la part esquerra o superior, trobaràs el menú de navegació.
+
+    Al centre, es mostrarà el contingut principal.
+
+[INSERIR AQUÍ UNA CAPTURA DE LA PANTALLA D'INICI]
+
+4. Com utilitzar el Reconeixement de Veu Per utilitzar la funcionalitat principal, segueix aquests passos:
+
+    Fes clic a la secció "Voice Commander" (si no hi ets ja).
+
+    Busca el botó que té la icona d'un micròfon.
+
+    Fes clic sobre ell i parla clarament prop de l'ordinador.
+
+    L'aplicació escriurà automàticament el que has dit a la caixa de text que hi ha a sota.
+
+[INSERIR AQUÍ UNA CAPTURA DEL COMPONENT AMB EL MICRÒFON]
+
+5. Resolució de problemes comuns
+
+    No m'escolta: Assegura't que el teu ordinador té un micròfon connectat i que has donat permís a l'aplicació per utilitzar-lo.
+
+    L'aplicació no s'obre: Prova de reiniciar l'ordinador i tornar a fer clic a la icona.
